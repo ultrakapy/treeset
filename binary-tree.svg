@@ -1,0 +1,31 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="512" height="512" fill="#f8f3e8"></rect>
+
+  <!-- Edges -->
+  <!-- Root to level 1 -->
+  <line x1="256" y1="90" x2="160" y2="190" stroke="#50413b" stroke-width="4"></line>
+  <line x1="256" y1="90" x2="352" y2="190" stroke="#50413b" stroke-width="4"></line>
+
+  <!-- Level 1 to level 2 -->
+  <line x1="160" y1="210" x2="112" y2="310" stroke="#50413b" stroke-width="4"></line>
+  <line x1="160" y1="210" x2="208" y2="310" stroke="#50413b" stroke-width="4"></line>
+  <line x1="352" y1="210" x2="304" y2="310" stroke="#50413b" stroke-width="4"></line>
+  <line x1="352" y1="210" x2="400" y2="310" stroke="#50413b" stroke-width="4"></line>
+
+  <!-- Nodes (unique colors) -->
+  <!-- Root -->
+  <circle cx="256" cy="80" r="32" fill="#f4b476" stroke="#50413b" stroke-width="4"></circle>
+
+  <!-- Level 1 -->
+  <circle cx="160" cy="200" r="30" fill="#7baf9e" stroke="#50413b" stroke-width="4"></circle>
+  <circle cx="352" cy="200" r="30" fill="#8b8fb8" stroke="#50413b" stroke-width="4"></circle>
+
+  <!-- Level 2 -->
+  <circle cx="112" cy="320" r="28" fill="#e48a63" stroke="#50413b" stroke-width="4"></circle>
+  <circle cx="208" cy="320" r="28" fill="#f0c96c" stroke="#50413b" stroke-width="4"></circle>
+  <circle cx="304" cy="320" r="28" fill="#88b36a" stroke="#50413b" stroke-width="4"></circle>
+  <circle cx="400" cy="320" r="28" fill="#d3899f" stroke="#50413b" stroke-width="4"></circle>
+
+</svg>

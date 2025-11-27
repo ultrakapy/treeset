@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="binary-tree.svg" alt="Binary tree diagram" width="60%">
+</p>
+
 # TreeSet – Ordered Set via Binary Search Tree  
 ### Caltech CS11 Advanced C++ – Final TreeSet Labs (Parts 1–3)
 
